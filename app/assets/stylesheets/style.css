@@ -720,3 +720,7 @@ textarea, input {
 {
     color: #f1f1f1 !important;
 }
+.navbar-nav .dropdown-menu {
+    padding: 10px 15px;
+}
+
